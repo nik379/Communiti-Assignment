@@ -1,0 +1,14 @@
+{
+  "name": "encrypted messaging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node testing.js"
+  },
+  "author": "Nikhil",
+  "license": "ISC",
+  "dependencies": {
+    "quick-encrypt": "^1.0.8"
+  }
+}
